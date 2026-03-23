@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>For You ❤️</title>
+  <style>
+    body {
+      text-align: center;
+      background: #ffe6f0;
+      font-family: Arial;
+    }
+    h1 {
+      color: #ff4d88;
+    }
+    img {
+      width: 200px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Happy Birthday ❤️</h1>
+  <p>给我最重要的人</p>
+
+  <img src="https://via.placeholder.com/200">
+
+  <p>我们已经在一起 100 天啦 💕</p>
+
+  <p>谢谢你一直在我身边，我爱你 ❤️</p>
+
+</body>
+</html>
